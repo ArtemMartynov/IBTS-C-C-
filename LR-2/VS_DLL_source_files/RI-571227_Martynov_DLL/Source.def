@@ -1,0 +1,4 @@
+LIBRARY RI-571227_Martynov_DLL
+EXPORTS
+	VSGruppa
+	VSImya
