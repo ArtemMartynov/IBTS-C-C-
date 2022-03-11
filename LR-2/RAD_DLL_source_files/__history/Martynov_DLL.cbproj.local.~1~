@@ -1,0 +1,25 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>1899.12.30 00:00:00.000.229,C:\Users\Администратор\Documents\Embarcadero\Studio\Projects\RI-571227_Martynov_DLLPCH1.h=C:\Users\Администратор\Documents\Embarcadero\Studio\Projects\Project1PCH1.h</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.182,=C:\Users\Администратор\Documents\Embarcadero\Studio\Projects\Project1PCH1.h</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.962,=C:\Users\Администратор\Documents\Embarcadero\Studio\Projects\RAD_DLL_LR2\definer.def</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.726,C:\Users\Администратор\Documents\Embarcadero\Studio\Projects\RAD_DLL_LR2\definer.def=</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.515,=C:\Users\Администратор\Documents\Embarcadero\Studio\Projects\RAD_DLL_LR2\definer.def</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.809,C:\Users\Администратор\Documents\Embarcadero\Studio\Projects\RAD_DLL_LR2\RI-571227_Martynov_DLL.cbproj=C:\Users\Администратор\Documents\Embarcadero\Studio\Projects\RI-571227_Martynov_DLL.cbproj</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.895,C:\Users\Администратор\Documents\Embarcadero\Studio\Projects\RAD_DLL_LR2\RI-571227_Martynov_DLL.cbproj=C:\Users\Администратор\Documents\Embarcadero\Studio\Projects\RAD_DLL_LR2\Martynov_DLL.cbproj</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.245,=C:\Users\Администратор\Documents\Embarcadero\Studio\Projects\File1.cpp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.229,C:\Users\Администратор\Documents\Embarcadero\Studio\Projects\RI-571227_Martynov_DLL.cbproj=C:\Users\Администратор\Documents\Embarcadero\Studio\Projects\Project1.cbproj</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.465,C:\Users\Администратор\Documents\Embarcadero\Studio\Projects\RAD_DLL_LR2\File1.cpp=C:\Users\Администратор\Documents\Embarcadero\Studio\Projects\File1.cpp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.805,=C:\Users\Администратор\Documents\Embarcadero\Studio\Projects\RAD_DLL_LR2\definer.def</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.726,C:\Users\Администратор\Documents\Embarcadero\Studio\Projects\RAD_DLL_LR2\definer.def=</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.418,=C:\Users\Администратор\Documents\Embarcadero\Studio\Projects\RAD_DLL_LR2\definer.def</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.668,C:\Users\Администратор\Documents\Embarcadero\Studio\Projects\RAD_DLL_LR2\RI-571227_Martynov_DLLPCH1.h=C:\Users\Администратор\Documents\Embarcadero\Studio\Projects\RI-571227_Martynov_DLLPCH1.h</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.880,C:\Users\Администратор\Documents\Embarcadero\Studio\Projects\RAD_DLL_LR2\RI-571227_Martynov_DLLPCH1.h=C:\Users\Администратор\Documents\Embarcadero\Studio\Projects\RAD_DLL_LR2\Martynov_DLLPCH1.h</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.277,=C:\Users\Администратор\Documents\Embarcadero\Studio\Projects\RAD_DLL_LR2\definer.def</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.102,C:\Users\Администратор\Documents\Embarcadero\Studio\Projects\RAD_DLL_LR2\definer.def=</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.520,=C:\Users\Администратор\Documents\Embarcadero\Studio\Projects\RAD_DLL_LR2\definer.def</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.927,C:\Users\Администратор\Documents\Embarcadero\Studio\Projects\RAD_DLL_LR2\definer.def=</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.664,C:\Users\Администратор\Documents\Embarcadero\Studio\Projects\RAD_DLL_LR2\definer.def=</Transaction>
+  </Transactions>
+</BorlandProject>

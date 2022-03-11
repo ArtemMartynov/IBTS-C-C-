@@ -1,0 +1,4 @@
+LIBRARY Martynov_DLL
+EXPORTS
+RADGruppa
+RADImya
