@@ -1,0 +1,21 @@
+#include <vcl.h>
+#include <windows.h>
+
+#pragma hdrstop
+#pragma argsused
+
+#include <tchar.h>
+#include <Martynov_DLLPCH1.h>
+#include <stdio.h>
+#include <iostream>
+
+int _tmain(int argc, _TCHAR* argv[])
+{
+	//const wchar_t* library = L"Martynov_DLL.dll";
+	//LoadLibrary(L"Martynov_DLL.dll");
+
+	//RADGruppa();
+	std::cout << "AAAAAA\n";
+	system("PAUSE");
+	return 1;
+}
