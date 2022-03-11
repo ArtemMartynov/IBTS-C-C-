@@ -1,0 +1,80 @@
+object Form1: TForm1
+  Left = 0
+  Top = 0
+  Caption = 'Form1'
+  ClientHeight = 312
+  ClientWidth = 492
+  FormFactor.Width = 320
+  FormFactor.Height = 480
+  FormFactor.Devices = [Desktop]
+  DesignerMasterStyle = 0
+  object Button1: TButton
+    Position.X = 184.000000000000000000
+    Position.Y = 168.000000000000000000
+    Size.Width = 97.000000000000000000
+    Size.Height = 41.000000000000000000
+    Size.PlatformDefault = False
+    TabOrder = 0
+    Text = #1044#1040'!'
+    OnClick = Button1Click
+  end
+  object Label1: TLabel
+    Position.X = 136.000000000000000000
+    Position.Y = 25.000000000000000000
+    Size.Width = 201.000000000000000000
+    Size.Height = 24.000000000000000000
+    Size.PlatformDefault = False
+    StyleLookup = 'Label1Style1'
+    Text = '                    '#1054#1090#1076#1072#1096#1100' dll?'
+    TabOrder = 1
+  end
+  object Button2: TButton
+    Position.X = 184.000000000000000000
+    Position.Y = 232.000000000000000000
+    Size.Width = 97.000000000000000000
+    Size.Height = 41.000000000000000000
+    Size.PlatformDefault = False
+    TabOrder = 2
+    Text = #1053#1077#1090
+    OnClick = Button2Click
+  end
+  object Button3: TButton
+    Enabled = False
+    Position.X = 184.000000000000000000
+    Position.Y = 232.000000000000000000
+    Size.Width = 97.000000000000000000
+    Size.Height = 41.000000000000000000
+    Size.PlatformDefault = False
+    TabOrder = 4
+    Text = #1055#1059#1057#1050
+    Visible = False
+    OnClick = Button3Click
+  end
+  object Label2: TLabel
+    Position.X = 152.000000000000000000
+    Position.Y = 72.000000000000000000
+    Size.Width = 185.000000000000000000
+    Size.Height = 25.000000000000000000
+    Size.PlatformDefault = False
+    Text = 'Label2'
+    Visible = False
+    TabOrder = 5
+  end
+  object Label3: TLabel
+    Position.X = 120.000000000000000000
+    Position.Y = 104.000000000000000000
+    Size.Width = 65.000000000000000000
+    Size.Height = 25.000000000000000000
+    Size.PlatformDefault = False
+    Text = #1043#1088#1091#1087#1087#1072' '#1056#1048'-'
+    TabOrder = 6
+    object Label4: TLabel
+      Position.X = 64.000000000000000000
+      Size.Width = 120.000000000000000000
+      Size.Height = 25.000000000000000000
+      Size.PlatformDefault = False
+      Text = 'Test'
+      TabOrder = 4
+    end
+  end
+end

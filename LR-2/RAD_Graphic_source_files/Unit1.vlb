@@ -1,0 +1,13 @@
+﻿[Label1]
+Coordinates=79,10,53,58
+
+[Button1]
+Coordinates=10,10,59,58
+
+[Button2]
+Coordinates=142,10,59,58
+Visible=True
+
+[]
+Coordinates=156,1,91,36
+

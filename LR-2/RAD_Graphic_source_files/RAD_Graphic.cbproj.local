@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>1899.12.30 00:00:00.000.507,C:\Users\Администратор\Documents\Embarcadero\Studio\Projects\Project1PCH1.h=C:\Users\Администратор\Documents\Embarcadero\Studio\Projects\RAD_GraphicPCH1.h</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.444,=C:\Users\Администратор\Documents\Embarcadero\Studio\Projects\Unit1.cpp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.600,C:\Users\Администратор\Documents\Embarcadero\Studio\Projects\Unit1.cpp=C:\Users\Администратор\Documents\Embarcadero\Studio\Projects\RAD_LR2_Graphic\Unit1.cpp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.600,C:\Users\Администратор\Documents\Embarcadero\Studio\Projects\Unit1.fmx=C:\Users\Администратор\Documents\Embarcadero\Studio\Projects\RAD_LR2_Graphic\Unit1.fmx</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.820,=C:\Users\Администратор\Documents\Embarcadero\Studio\Projects\Project1PCH1.h</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.475,C:\Users\Администратор\Documents\Embarcadero\Studio\Projects\RAD_GraphicPCH1.h=C:\Users\Администратор\Documents\Embarcadero\Studio\Projects\RAD_LR2_Graphic\RAD_GraphicPCH1.h</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.819,C:\Users\Администратор\Documents\Embarcadero\Studio\Projects\RAD_Graphic.cbproj=C:\Users\Администратор\Documents\Embarcadero\Studio\Projects\RAD_LR2_Graphic\RAD_Graphic.cbproj</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.507,C:\Users\Администратор\Documents\Embarcadero\Studio\Projects\Project1.cbproj=C:\Users\Администратор\Documents\Embarcadero\Studio\Projects\RAD_Graphic.cbproj</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.600,C:\Users\Администратор\Documents\Embarcadero\Studio\Projects\Unit1.h=C:\Users\Администратор\Documents\Embarcadero\Studio\Projects\RAD_LR2_Graphic\Unit1.h</Transaction>
+  </Transactions>
+</BorlandProject>
